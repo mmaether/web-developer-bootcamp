@@ -1,0 +1,3 @@
+# Web Developer Bootcamp
+
+This repository houses work completed while taking the [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course by Colt Steele. Many of the introductory courses are review, but there are topics in here I'm not as aware of such as MongoDB and NodeJS, which I've been curious about learning. There aren't many fresh, exciting projects here, it's mostly about learning.

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Select and Manipulate</title>
+  </head>
+  <body>
+    <h1>My header</h1>
+
+    <p id="first" class="special">Hello</p>
+    <p class="special">Goodbye</p>
+    <p>Hi again</p>
+    <p id="last">Goodbye again</p>
+  </body>
+  <script type="text/javascript">
+    var h1 = document.querySelector("h1");
+    //h1.style.color = "pink";
+
+    var selection = "";
+    console.log(document.getElementById("first"));
+    console.log(document.getElementsByClassName("special")[0]);
+    console.log(document.querySelector("#first"));
+    console.log(document.querySelector(".special"));
+  </script>
+</html>
